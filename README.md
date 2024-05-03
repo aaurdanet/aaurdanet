@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first line of code, but fear not—I fix them too!<br>📚 Currently, I'm honing my skills in Python while also gearing up for my Security+ certification.<br>🎯 Goals: Applying programming skills to real-world scenarios, enhancing network and cyber security expertise, and contributing to simplifying life's daily tasks and challenges through innovative and creative programming solutions.<br>🎲 Fun fact: I often debug my programs while sleeping <br>🏋🏼Hobbies: Workout<br>📩 Contact: antonioaurdanet@gmail.com<br>🚀 Check out my GitHub repositories!</p>
+<p align="left">✨ Creating bugs since my first line of code, but fear not—I fix them too!<br>📚 Currently, I'm honing my skills in Python while also gearing up for my Security+ certification.<br>🎯 Goals: Enhancing network and cyber security expertise, applying programming skills to real-world scenarios, and contributing to simplifying life's daily tasks and challenges through innovative and creative programming solutions.<br>🎲 Fun fact: I often debug my programs while sleeping <br>🏋🏼Hobbies: Workout<br>📩 Contact: antonioaurdanet@gmail.com<br>🚀 Check out my GitHub repositories!</p>
 
 ###
 
