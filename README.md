@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first line of code, but fear not—I fix them too!<br>📚 Currently, I'm honing my skills in Python while also gearing up for my Security+ certification.<br>🎯 Goals: Enhancing network and cyber security expertise, applying programming skills to real-world scenarios, and contributing to simplifying life's daily tasks and challenges through innovative and creative programming solutions.<br>🎲 Fun fact: I often debug my programs while sleeping <br>🏋🏼 Hobbies: Code & Workout<br>📩 Contact: antonioaurdanet@gmail.com<br>🚀 Check out my GitHub repositories!</p>
+<p align="left">✨ Creating bugs since my first line of code, but fear not—I fix them too!<br>📚 Currently, I'm honing my skills in Python while also gearing up for my Security+ certification.<br>🎯 Goals: Applying programming skills to real-world scenarios, enhancing network and cyber security expertise, and contributing to open-source projects.<br>🎲 Fun fact: I often debug my programs while sleeping <br>🏋🏼Hobbies: Workout<br>📩 Contact: antonioaurdanet@gmail.com<br>🚀 Check out my GitHub repositories!</p>
 
 ###
 
@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
 
 ###
