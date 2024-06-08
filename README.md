@@ -61,7 +61,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/antoniourdaneta/" target="_blank">
