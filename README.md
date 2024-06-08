@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cad8256d-a541-433d-9713-671ed9b21e22" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ###
 
 <div align="left">
