@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm an aspiring IT professional currently pursuing a Bachelor's degree in Information Technology with a minor in Secure Computing and Networks at the University of Central Florida, alongside an Associate's degree from Valencia College. I'm enthusiastic about applying theoretical knowledge to real-world challenges, committed to overcoming hurdles, achieving objectives, and continually advancing my skills. With a CompTIA Network+ certification, I possess expertise in several programming languages, including Python, Java, C++, C, and various web development technologies. Furthermore, I'm fluent in both English and Spanish.</p>
+<p align="left">I'm currently pursuing a Bachelor's degree in Information Technology with a minor in Secure Computing and Networks at the University of Central Florida, alongside an Associate's degree from Valencia College. My academic journey has fueled my passion for tackling real-world IT challenges, where I'm dedicated to overcoming hurdles, achieving objectives, and continuously advancing my skills.
+
+In addition to my studies, I thrive on coding and leveraging technology to streamline routine tasks for increased efficiency. I hold CompTIA Network+ and Security+ certifications, validating my expertise in networking and cybersecurity. My programming proficiency spans Python, Java, C++, and C, along with web development technologies such as JavaScript, CSS, HTML, and React.js. Fluent in both English and Spanish, I am equipped to collaborate effectively across diverse teams and projects.</p>
 
 ###
 
