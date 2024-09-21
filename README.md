@@ -19,13 +19,16 @@ In addition to my studies, I thrive on coding and leveraging technology to strea
 ###
 
 <p align="left">
-    📚 Currently I am working on Java and Python projects to post here on my GitHub 
-    <a href="https://github.com/aaurdanet?tab=stars">click me!</a><br>
+   <p align="left">
+    📚 Currently I am working on Java and Python projects to post here on my GitHub.  
+    <a href="https://github.com/aaurdanet?tab=stars">Check them out!</a><br>
     🎯 Goals: Applying programming skills to real-world scenarios, enhancing network and cyber security expertise, and contributing to open-source projects.<br>
     🎲 Fun fact: I often debug my programs while sleeping <br>
     🏋🏼Hobbies: Code & Workout<br>
-    📩 Contact: antonioaurdanet@gmail.com<br>
+    📩 Contact: <a href="mailto:antonioaurdanet@gmail.com">antonioaurdanet@gmail.com</a><br>
     🚀 Check out my GitHub repositories!
+</p>
+
 </p>
 
 ###
