@@ -26,7 +26,7 @@ In addition to my studies, I thrive on coding and leveraging technology to strea
     🎲 Fun fact: I often debug my programs while sleeping <br>
     🏋🏼Hobbies: Code & Workout<br>
     📩 Contact: <a href="mailto:antonioaurdanet@gmail.com">antonioaurdanet@gmail.com</a><br>
-    🚀 Check out my GitHub <a href="https://github.com/aaurdanet?tab=repositories">repositories!</a>
+    🚀 Check out my <a href="https://github.com/aaurdanet?tab=repositories">GitHub repositories!</a>
 </p>
 
 </p>
