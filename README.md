@@ -93,6 +93,8 @@ I am passionate about solving complex IT challenges, optimizing systems, and exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<!-- https://devicon.dev/ -->
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/antoniourdaneta/" target="_blank">
