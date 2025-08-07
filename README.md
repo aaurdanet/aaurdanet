@@ -22,8 +22,6 @@ I am passionate about solving complex IT challenges, optimizing systems, and exp
 
 <p align="left">
    <p align="left">
-    <a href="https://github.com/aaurdanet?tab=stars">Check them out!</a><br>
-    📩 Contact: <a href="mailto:antonioaurdanet@gmail.com">antonioaurdanet@gmail.com</a><br>
     🚀 Check out my <a href="https://github.com/aaurdanet?tab=repositories">GitHub repositories!</a>
 </p>
 
