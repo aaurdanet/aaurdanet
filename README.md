@@ -22,11 +22,7 @@ I am passionate about solving complex IT challenges, optimizing systems, and exp
 
 <p align="left">
    <p align="left">
-    📚 Currently I am working on Java and Python projects to post here on my GitHub.  
     <a href="https://github.com/aaurdanet?tab=stars">Check them out!</a><br>
-    🎯 Goals: Applying programming skills to real-world scenarios, enhancing network and cyber security expertise, and contributing to open-source projects.<br>
-    🎲 Fun fact: I often debug my programs while sleeping <br>
-    🏋🏼Hobbies: Code & Workout<br>
     📩 Contact: <a href="mailto:antonioaurdanet@gmail.com">antonioaurdanet@gmail.com</a><br>
     🚀 Check out my <a href="https://github.com/aaurdanet?tab=repositories">GitHub repositories!</a>
 </p>
