@@ -16,7 +16,7 @@ I am passionate about solving complex IT challenges, optimizing systems, and exp
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">More</h2>
 
 ###
 
