@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">I'm currently pursuing a Bachelor's degree in Information Technology with a minor in Secure Computing and Networks at the University of Central Florida, alongside an Associate's degree from Valencia College. My academic journey has fueled my passion for tackling real-world IT challenges, where I'm dedicated to overcoming hurdles, achieving objectives, and continuously advancing my skills.
+<p align="left">I am an Ignite IT Rotational Associate at NextEra Energy, where I collaborate with diverse teams to develop and implement innovative IT solutions.
 
-In addition to my studies, I thrive on coding and leveraging technology to streamline routine tasks for increased efficiency. I hold CompTIA Network+ and Security+ certifications, validating my expertise in networking and cybersecurity. My programming proficiency spans Python, Java, C++, and C, along with web development technologies such as JavaScript, CSS, HTML, and React.js. Fluent in both English and Spanish, I am equipped to collaborate effectively across diverse teams and projects.</p>
+I hold a Bachelor's degree in Information Technology, with a minor in Secure Computing and Networks, from the University of Central Florida. I have also obtained several certifications, including AWS and CompTIA. My skill set includes proficiency in Python, Java, TypeScript, C++, and C, as well as web development. I am fluent in both English and Spanish.
+
+I am passionate about solving complex IT challenges, optimizing systems, and expanding my technical expertise.</p>
 
 ###
 
