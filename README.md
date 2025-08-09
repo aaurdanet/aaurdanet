@@ -26,13 +26,13 @@ I am passionate about solving complex IT challenges, optimizing systems, and exp
 </p>
 
 </p>
-
+<!--
 ###
-
+<!--
 <h2 align="left">Tech Tools</h2>
-
 ###
 
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -90,7 +90,7 @@ I am passionate about solving complex IT challenges, optimizing systems, and exp
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
+-->
 
 <!-- https://devicon.dev/ -->
 ###
